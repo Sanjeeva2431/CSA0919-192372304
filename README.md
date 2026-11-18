@@ -1,12 +1,12 @@
 # Programming in Java (CSA09) — Assignments CO1 to CO5
 
-**Student Name:** N.Moksha Sai  
-**Register Number:** 192372374  
-**Course Code:** CSA09  
+**Student Name:** T.Sanjeeva Reddy  
+**Register Number:** 192372304  
+**Course Code:** CSA0919  
 **Course Name:** Programming in Java  
 **Institution:** SIMATS Engineering  
 **Java Environment:** OpenJDK 17.0.21.0.2 LTS  
-**Repository:** [github.com/dudemoksha/CSA09-192372374-Assignments](https://github.com/dudemoksha/CSA09-192372374-Assignments.git)  
+**Repository:** (https://github.com/Sanjeeva2431/CSA0919-192372304)  
 
 ---
 
